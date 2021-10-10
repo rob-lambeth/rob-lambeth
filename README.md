@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+🙋🏻‍♂️ I'm Rob, a UX researcher and grad student studying Human-Computer Interaction at Carnegie Mellon University.
+
+This account is a work-in-progress. I'll be adding projects here over the course of the next year.
+
+In the meantime, you can read more about my background here: https://www.linkedin.com/in/rob-lambeth/
 
 <!--
 **rob-lambeth/rob-lambeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
